@@ -7,4 +7,4 @@ Der Datensatz „housing.csv“ enthält Wohnungsdaten aus Kalifornien. Die Spal
 ---
 
 Datenschutz:
-Der Datensatz enthält keine direkten Personendaten wie Name, Adresse, Telefonnummer oder E-Mail. Es sind nur geografische Koordinaten und zusammengefasste Werte pro Gebiet (Population, Haushalte, Medianwerte) enthalten. Dadurch ist der Datenschutz nur wenig betroffen. Damit trotzdem keine Rückschlüsse auf einzelne Personen entstehen, werden keine eindeutigen Identifikatoren gespeichert und die Daten bleiben auf Gebietsebene (aggregiert). Ich habe keine zusätzlichen Quellen verknüpft und nur diese aggregierten Felder im Repository veröffentlicht.
+Der Datensatz enthält keine direkten Personendaten wie Name, Adresse, Telefonnummer oder E-Mail. Es sind nur geografische Koordinaten und zusammengefasste Werte pro Gebiet (Population, Haushalte, Medianwerte) enthalten. Dadurch ist der Datenschutz nur wenig betroffen. Damit trotzdem keine Rückschlüsse auf einzelne Personen entstehen, werden keine eindeutigen Identifikatoren gespeichert und die Daten bleiben auf Gebietsebene,
